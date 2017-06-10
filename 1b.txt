@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-1b
-=======
-1c
->>>>>>> branch-3a
+blahblah
